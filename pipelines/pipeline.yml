@@ -1,0 +1,8 @@
+trigger:
+  branches:
+    include:
+      - t-branch
+
+stages:
+- template: ../templates/plan.yml
+- template: ../templates/apply.yml
