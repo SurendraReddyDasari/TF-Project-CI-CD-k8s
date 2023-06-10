@@ -1,5 +1,5 @@
 stages:
-- stage: Dev
+- stage: apply
   jobs:
   - job: TerraformApply
     steps:

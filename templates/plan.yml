@@ -1,5 +1,5 @@
 stages:
-- stage: DevPlan
+- stage: Plan
   jobs:
   - job: TerraformPlan
     steps:
