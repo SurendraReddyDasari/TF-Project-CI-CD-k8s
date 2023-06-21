@@ -31,9 +31,7 @@ module "cosmos_db" {
   rg_name   = var.rg_name
   location  = var.location  
 }
-{
-  hiihi
-}
+
 
 
 
